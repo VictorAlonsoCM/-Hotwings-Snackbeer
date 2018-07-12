@@ -1,1 +1,1 @@
-# -Hotwings-Snackbeer
+# Hotwings Snackbeer WebApp
