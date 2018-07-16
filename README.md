@@ -6,15 +6,15 @@ Desarrollo app WEB para un Bar
 
 
 - Lista de tareas del cliente(Product Backlog).
-  > - GPS.
-  > - Menu de opciones de productos.
-  > - Disponibilidad en App Store y PlayStore.
-  > - Campo de detalles del pedido.
-  > - Logeo con Facebook o por correo.
-  > - Color de preferencia: Verde militar.
-  > - Carrusel con promociones.
-  > - Precios de los productos.
-  > - (Pendientes a consultar): Limitaciones fiscales.
+  > - [ ] GPS.
+  > - [ ] Menu de opciones de productos.
+  > - [ ] Disponibilidad en App Store y PlayStore.
+  > - [ ] Campo de detalles del pedido.
+  > - [ ] Loging por medio de Facebook o correo.
+  > - [ ] Color de preferencia: Verde militar.
+  > - [ ] Carrusel con promociones.
+  > - [ ] Precios de los productos.
+  > - [ ] (Pendientes a consultar): Limitaciones fiscales.
 
 - Priorización de tareas(Spring Backlog).
   - Descripción
