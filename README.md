@@ -16,7 +16,7 @@
   > - [ ] Precios de los productos.
   > - [ ] (Pendientes a consultar): Limitaciones fiscales.
 
-### - Priorización de tareas(Spring Backlog).
+### - Priorización de tareas(Sprint Backlog).
   - Descripción
   - Ordenación
   - Estimación
