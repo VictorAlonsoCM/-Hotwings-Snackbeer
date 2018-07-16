@@ -2,19 +2,27 @@
 ## SCRUM
 **OBJETIVO**
 
-Desarrollo app WEB
+Desarrollo app WEB para un Bar
 
 
-- Lista de tareas del cliente.
+- Lista de tareas del cliente(Product Backlog).
+  > - GPS.
+  > - Menu de opciones de productos.
+  > - Disponibilidad en App Store y PlayStore.
+  > - Campo de detalles del pedido.
+  > - Logeo con Facebook o por correo.
+  > - Color de preferencia: Verde militar.
+  > - Carrusel con promociones.
+  > - Precios de los productos.
+  > - (Pendientes a consultar): Limitaciones fiscales.
 
-
-- Priorizacion de tareas(Product Backlog).
-  - Descripcion
-  - Ordenacion
-  - Estimacion
+- Priorización de tareas(Spring Backlog).
+  - Descripción
+  - Ordenación
+  - Estimación
   - Valor del Producto
 
 - Sprint Backlog
-  - Lista de elementos del Backlog a desarrollar en funcion a su prioridad
+  - Lista de elementos del Backlog a desarrollar en función a su prioridad
 
-- Sprints (Liberacion de tareas al cliente)
+- Sprints (Liberación de tareas al cliente)
